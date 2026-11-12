@@ -1,3 +1,4 @@
 men git o'rganayapman
 Ikkinchi qator: o'zgarish kiritdim
 Uchunchi qator
+To'rtinchi qator (branch'da)
